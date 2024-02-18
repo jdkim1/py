@@ -19,7 +19,7 @@ def userinfo(u):
 
 print(userinfo(user))
 
-print("test pring~!!!")
+
 
 
 
